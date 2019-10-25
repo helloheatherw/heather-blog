@@ -1,6 +1,6 @@
 ---
 title: Navigating my Career Change
-date: '2019-10-26'
+date: '2019-10-25'
 tags:
   - career
   - confidence
