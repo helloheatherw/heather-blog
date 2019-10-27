@@ -1,5 +1,5 @@
 ---
-title: Navigating my Career Change
+title: Navigating my Imposter Syndrome
 date: '2019-10-25'
 tags:
   - career
